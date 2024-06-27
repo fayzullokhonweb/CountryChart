@@ -51,9 +51,8 @@ function PieChart() {
     <div className="mt-8">
       <div className="max-w-5xl mx-auto">
         <p className="font-normal">
-          ReactApexChart kutubxonasi yordamida Bar Charts yaratildi. Ushbu
-          Diagramma barcha mamlakatlarning nomi va ularning yer maydoni katta
-          maydondan kichik maydon tomon saralangan holatda ko'rsatadi.
+          ReactApexChart kutubxonasi yordamida Pie Charts yaratildi. Ushbu
+          Diagramma hududlari bo'yicha to'qqizta eng yirik davlatlarning ro'yxatini ko'rsatadi
         </p>
         <div className="mt-7">
           <Link
